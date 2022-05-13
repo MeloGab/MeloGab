@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Melo, Seja bem-vindo! 👋
 
-- 💼 Trabalho atualmente como Analista de Suporte Bilíngue, mas estou em busca de realizar meu sonho e ingressar no mercado como Desenvolvedor.
+- 💼 Trabalho atualmente como Analista de Suporte Bilíngue e desenvolvedor freelancer, mas estou em busca de realizar meu sonho e ingressar 100% na aréa como Desenvolvedor.
 - 😃 Possuo espanhol nível intermediário.
 - 💻 Desenvolvedor Front e Back End.
 - 📚 Cursando Ciência da Computação. 
