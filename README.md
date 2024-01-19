@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Melo, Seja bem-vindo! 👋
 
-Sou um Desenvolvedor Júnior com experiência significativa na CBYK, onde atuei por quase 1 ano no projeto Gol-Meli, uma parceria entre a GOL Linhas Aéreas e o Mercado Livre. Durante esse período, contribuí ativamente no desenvolvimento de funcionalidades e resolução de problemas.
+Sou um Desenvolvedor Júnior com experiência significativa na CBYK, onde atuei por 1 ano no projeto Gol-Meli, uma parceria entre a GOL Linhas Aéreas e o Mercado Livre. Durante esse período, contribuí ativamente no desenvolvimento de funcionalidades e resolução de problemas.
 Possuo experiência anterior como vendor na IBM, onde trabalhei na área de sustentação de sistemas. Essas experiências me proporcionaram um sólido conhecimento em arquitetura em DDD, APIs, Injeção de Dependência, Testes Unitários, Repository Pattern, Unit of Work, EF, Core 5, AutoMapper, Seed, Oracle, Git, .NET 6, HTML e CSS. Também sou familiarizado com metodologias ágeis, incluindo o Scrum.
 Estou atualmente cursando Bacharelado em Ciência da Computação na Anhembi Morumbi, complementando meu conhecimento teórico com experiência prática no desenvolvimento de software. Tenho fluência em espanhol e estou aprimorando meu nível de inglês.
 Busco novos desafios como desenvolvedor, com o objetivo de aprimorar minhas habilidades e contribuir para projetos de sucesso.
