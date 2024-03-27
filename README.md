@@ -26,18 +26,8 @@
 
 <br><br>
 <br><br>
-
-<!--
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-
 <br><br>
--->
+
 
 <img align="left" height="250rem" src="https://raw.githubusercontent.com/gist/MeloGab/bdfaa1de5160a9c1200bcc578b949476/raw/e7fc6d99dd199c99fe6ca40d29891d6153efe1a5/learning.svg"/>
 
@@ -74,6 +64,16 @@ princípios de desenvolvimento de APIs RESTful e o uso de bibliotecas populares,
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+<br><br>
+<br><br>
+
+## ⚙️ &nbsp;GitHub Análise
+
+<p align="center">
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melogab&layout=compact&theme=vision-friendly-dark" alt="melogab's most languages"/>
+</p>
  
  &nbsp;
  &nbsp;
