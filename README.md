@@ -2,11 +2,9 @@
 
 <h1 align="left">Olá, Eu sou o Gabriel <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MeloGab&color=blue" alt="Visualizações de perfil" /> </p>
-
 - 👨‍💻 Com um ano e meio de experiência em desenvolvimento de software, buscando sempre evoluir.
 
-- 🔄 Participei de projetos utilizando metodologia Scrum, colaborando efetivamente em equipes ágeis para entregas com alta perfomace.
+- 🔄 Participei de projetos utilizando metodologia Scrum, colaborando efetivamente em equipes ágeis para entregas com alta perfomance.
 
 - 💻 Familiarizado com tecnologias .NET, como ASP.NET Core e Framework, buscando sempre aprender e aprimorar minhas habilidades.
 
